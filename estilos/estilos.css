@@ -127,6 +127,7 @@ table tr:nth-child(even) {
     position: fixed;
     z-index: 1000;
     width: 98%;
+    padding: 0%;
 }
 
 .nav_menu .logo {
