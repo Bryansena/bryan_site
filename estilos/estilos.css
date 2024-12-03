@@ -21,6 +21,9 @@ h1 {
     color: #333;
     padding-left: 33%;
 }
+header {
+top: 0;
+}
 
 .conferencia-container {
     display: flex;
